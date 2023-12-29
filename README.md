@@ -2,10 +2,10 @@
 
 Kelompok 7:
 
-Althaf Aqbil Putra Pratama
-Bagaskara Priyatna
-Alya Aulia Putri
-Allif Ilham Maulana
+1. Althaf Aqbil Putra Pratama
+2. Bagaskara Priyatna
+3. Alya Aulia Putri
+4. Allif Ilham Maulana
 JUDUL: "PENGEMBANGAN NANOGENERATOR DI DAERAH TERPENCIL"
 
 TUJUAN: Tujuan dari penelitian ini adalah untuk mengembangkan sistem tenaga nano dan mikro yang inovatif, efisien, dan dapat diimplementasikan dalam berbagai aplikasi praktis khususnya di daerah terpencil. Selain itu penelitian ini dibuat untuk memenuhi tugas besar dari mata kuliah perkenalan teknik elektro.
