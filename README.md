@@ -9,7 +9,8 @@ Kelompok 7:
 
 JUDUL: "PENGEMBANGAN NANOGENERATOR DI DAERAH TERPENCIL"
 
-TUJUAN: Tujuan dari penelitian ini adalah untuk mengembangkan sistem tenaga nano dan mikro yang inovatif, efisien, dan dapat diimplementasikan dalam berbagai aplikasi praktis khususnya di daerah terpencil. Selain itu penelitian ini dibuat untuk memenuhi tugas besar dari mata kuliah perkenalan teknik elektro.
+TUJUAN: 
+Tujuan dari penelitian ini adalah untuk mengembangkan sistem tenaga nano dan mikro yang inovatif, efisien, dan dapat diimplementasikan dalam berbagai aplikasi praktis khususnya di daerah terpencil. Selain itu penelitian ini dibuat untuk memenuhi tugas besar dari mata kuliah perkenalan teknik elektro.
 
 Signifikansi Topik: 
 1. Pembangkit Energi Ramah Lingkungan : Nanogenerator menawarkan potensi sebagai sumber energi alternatif yang ramah lingkungan. Mereka dapat mengubah energi mekanik dari getaran, tekanan, atau gerakan menjadi energi listrik, yang dapat digunakan untuk berbagai aplikasi, termasuk dalam pengembangan teknologi energi terbarukan 
